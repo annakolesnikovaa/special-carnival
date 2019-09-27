@@ -1,2 +1,6 @@
-# special-carnival
-My first repo
+# Соссюр, Фердинанд де
+Фердина́нд де Соссю́р (фр. Ferdinand de Saussure, 26 ноября 1857, Женева — 22 февраля 1913) — швейцарский лингвист, заложивший основы семиологии и структурной лингвистики, стоявший у истоков Женевской лингвистической школы. Идеи Фердинанда де Соссюра, которого часто называют отцом лингвистики XX века, оказали существенное влияние на гуманитарную мысль XX века в целом, вдохновив рождение структурализма.
+
+Основная работа Ф. де Соссюра — «Курс общей лингвистики» (фр. «Cours de linguistique générale»).
+<https://github.com/annakolesnikovaa>
+![Фердинанд де Соссюр](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ferdinand_de_Saussure_by_Jullien.png/800px-Ferdinand_de_Saussure_by_Jullien.png)
